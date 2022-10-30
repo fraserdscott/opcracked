@@ -43,7 +43,7 @@ export function setupDayNightCycle(noa: Engine, glow: GlowLayer) {
     const dt = now - last;
     last = now;
     elapsed += dt;
-    const progress = (elapsed % CYCLE) / CYCLE;
+    const progress = 0.25;
     // sync SUN marker
     const local: number[] = [];
     // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
