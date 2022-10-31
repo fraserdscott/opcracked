@@ -16,3 +16,8 @@ Simply clone the repo and run `yarn start`, and it should sync with the official
 Feel free to clone this client and hack it to your hearts desire!
 
 _A [past commit](d3bec7eb78f52d8e30fe4ae263afea4a0bc21758) included x-ray vision (where all blocks render as glass, except Iron, Gold, and Diamonds), but ultimately I prefer to view the world normally._
+
+
+
+https://user-images.githubusercontent.com/29184158/199084848-6a0aa906-032b-4dcd-a3d8-f9f7152d861e.mov
+
